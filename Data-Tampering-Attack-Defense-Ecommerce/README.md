@@ -1,7 +1,10 @@
 # Data-tampering-attack-defense
+
+In today's digital realm, e-commerce thrives, but data security is paramount. Packet Tampering, exemplified by Amazon's incident, underscores the need for encryption and hashing to protect sensitive data during transmission.
 This is a project done with expressJs and stripe for payment gateway and protected through SHA 512
 
-* This is just a testing website through which we can perform data tampering through burp suite and a way to prevent it 
+* This is just a testing website through which we can perform data tampering through burp suite and a way to prevent it
+  
 
 # Screenshots
 
